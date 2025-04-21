@@ -1,0 +1,28 @@
+img{
+    border-radius: 25px;
+    width: 10%;
+    padding: 10px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    
+
+}
+p.id{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+
+}
+body{
+    background-color: aliceblue;
+}
+header.pandu{
+    font-weight: bold;
+}
